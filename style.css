@@ -1,0 +1,9 @@
+.parent {
+    display: flex;
+    
+}
+.stars{color: rgb(255, 191, 0);}
+
+.one,.two,.three {color: gray;}
+.four{font-size: small;}
+.price{color: black; font-size: larger;}
